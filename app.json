@@ -13,7 +13,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.habitkonrad"
     },
     "android": {
       "adaptiveIcon": {
@@ -27,3 +28,4 @@
     }
   }
 }
+

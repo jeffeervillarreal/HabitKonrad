@@ -8,6 +8,7 @@ import HabitDetailsScreen from '../screens/HabitDetailsScreen';
 import SettingsScreen from '../screens/SettingsScreen';
 import AchievementsScreen from '../screens/AchievementsScreen';
 
+
 const Stack = createNativeStackNavigator();
 
 const AppNavigator = () => {

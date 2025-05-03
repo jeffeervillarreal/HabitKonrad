@@ -1,4 +1,5 @@
 import { registerRootComponent } from 'expo';
+<Stack.Screen name="auth" component={AuthScreen} />
 
 import App from './App';
 
